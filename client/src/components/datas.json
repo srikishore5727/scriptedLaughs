@@ -1,0 +1,73 @@
+[
+    {
+      "username": "prankster123",
+      "title": "Frozen Keyboard",
+      "description": "Swap the keys on a friend's keyboard to create confusion when they type.",
+      "category": "Computer Pranks",
+      "difficulty": "Easy"
+    },
+    {
+      "username": "jokester456",
+      "title": "Upside Down Screen",
+      "description": "Use keyboard shortcuts to rotate your friend's computer screen upside down.",
+      "category": "Computer Pranks",
+      "difficulty": "Easy"
+    },
+    {
+      "username": "trickster789",
+      "title": "Airhorn Chair",
+      "description": "Attach an airhorn to your friend's chair so it goes off when they sit down.",
+      "category": "Physical Pranks",
+      "difficulty": "Moderate"
+    },
+    {
+      "username": "prankster123",
+      "title": "Fake Bug in Keyboard",
+      "description": "Place a realistic-looking fake bug in your friend's keyboard to give them a scare.",
+      "category": "Computer Pranks",
+      "difficulty": "Easy"
+    },
+    {
+      "username": "jokester456",
+      "title": "Auto-correct Fun",
+      "description": "Change your friend's phone auto-correct settings to replace common words with funny alternatives.",
+      "category": "Phone Pranks",
+      "difficulty": "Moderate"
+    },
+    {
+      "username": "trickster789",
+      "title": "Desk Items in Jelly",
+      "description": "Encase your friend's desk items like pens, stapler, etc. in jelly.",
+      "category": "Office Pranks",
+      "difficulty": "Hard"
+    },
+    {
+      "username": "prankster123",
+      "title": "Mouse Prank",
+      "description": "Swap the mouse buttons on your friend's computer or replace it with a similar-looking non-functional mouse.",
+      "category": "Computer Pranks",
+      "difficulty": "Easy"
+    },
+    {
+      "username": "jokester456",
+      "title": "Fake News Article",
+      "description": "Create a fake news article about your friend and share it on social media.",
+      "category": "Online Pranks",
+      "difficulty": "Moderate"
+    },
+    {
+      "username": "trickster789",
+      "title": "Remote Control Swap",
+      "description": "Swap the batteries in your friend's remote controls or replace them with dead batteries.",
+      "category": "Home Pranks",
+      "difficulty": "Easy"
+    },
+    {
+      "username": "prankster123",
+      "title": "Alarm Clock Prank",
+      "description": "Set multiple alarm clocks to go off at random times during the night in your friend's room.",
+      "category": "Home Pranks",
+      "difficulty": "Moderate"
+    }
+  ]
+  

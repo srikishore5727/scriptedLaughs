@@ -1,0 +1,17 @@
+meta {
+  name: patch_method
+  type: http
+  seq: 8
+}
+
+put {
+  url: http://localhost:8000/prankscripts/api/update
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "best_ug_degree":"kalvium"
+  }
+}
